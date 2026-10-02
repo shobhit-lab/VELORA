@@ -1,36 +1,26 @@
-# Static Website Clone
+# Shobhit Sharma — AI & Computer Vision Portfolio
 
-This is a standalone static HTML, CSS, and JS export cloned from **https://sustained-board-207418.framer.app/** using [Uncage](https://github.com/Nightteye/uncage).
+Building intelligent systems with **Artificial Intelligence, Computer Vision, and Robotics**.
 
-## 📁 Exported Pages
-- [index.html](./index.html) (Source route: `/index`)
-- [contact.html](./contact.html) (Source route: `/contact`)
-- [blog.html](./blog.html) (Source route: `/blog`)
-- [ai-robot-spider--picrawler-.html](./ai-robot-spider--picrawler-.html) (Source route: `/ai-robot-spider-(picrawler)`)
-- [calm-within.html](./calm-within.html) (Source route: `/calm-within`)
-- [laura-bennett.html](./laura-bennett.html) (Source route: `/laura-bennett`)
-- [asher-brooks.html](./asher-brooks.html) (Source route: `/asher-brooks`)
-- [mindease.html](./mindease.html) (Source route: `/mindease`)
-- [blog/designing-for-clarity-a-practical-framework.html](./blog/designing-for-clarity-a-practical-framework.html) (Source route: `/blog/designing-for-clarity-a-practical-framework`)
-- [blog/framer-vs--hand-coded-choosing-the-right-tool-for-the-job.html](./blog/framer-vs--hand-coded-choosing-the-right-tool-for-the-job.html) (Source route: `/blog/framer-vs.-hand-coded-choosing-the-right-tool-for-the-job`)
-- [blog/from-wireframe-to-launch-a-realistic-timeline.html](./blog/from-wireframe-to-launch-a-realistic-timeline.html) (Source route: `/blog/from-wireframe-to-launch-a-realistic-timeline`)
-- [blog/the-anatomy-of-a-high-converting-landing-page.html](./blog/the-anatomy-of-a-high-converting-landing-page.html) (Source route: `/blog/the-anatomy-of-a-high-converting-landing-page`)
-- [blog/why-motion-should-serve-the-message-not-distract-from-it.html](./blog/why-motion-should-serve-the-message-not-distract-from-it.html) (Source route: `/blog/why-motion-should-serve-the-message-not-distract-from-it`)
+🌐 **Portfolio:** https://shobhit-lab.github.io/VELORA/  
+💼 **LinkedIn:** www.linkedin.com/in/shobhit-sharma07  
+💻 **GitHub:** https://github.com/shobhit-lab  
 
-## 🚀 How to Run & Preview
+---
 
-### Option 1: Direct File Opening
-You can open `index.html` directly in any browser (or via VS Code "Live Server" extension).
+## About
 
-### Option 2: Local Static Server
-```bash
-npm run preview
-# or
-npx serve .
-```
+I'm a Computer Science student specializing in **AI & Machine Learning**, focused on building intelligent systems that can perceive, learn, and interact with the world.
 
-## 🌐 Deployment
-This folder is 100% static and ready to drag-and-drop to:
-- **Netlify** / **Vercel**
-- **GitHub Pages**
-- **Nginx / Apache** or S3 / Cloudflare Pages
+My goal is to explore **Embodied AI, Computer Vision, and Autonomous Robotics**.
+
+---
+
+## Focus Areas
+
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🧠 Machine Learning
+- 🚀 Autonomous Systems
+- ⚡ AI Engineering
+
