@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD-23902c80.js";function t(e,t){return{description:`Shobhit Sharma builds AI that sees and acts. Computer vision and AI projects, from vision-based systems to intelligent agents. View selected work.`,robots:`max-image-preview:large`,title:`Shobhit Sharma — AI & Computer Vision`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.GeCxjWyy.mjs.map

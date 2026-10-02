@@ -1,0 +1,10 @@
+{
+  "name": "sustained-board-207418.framer.app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static HTML clone of https://sustained-board-207418.framer.app/",
+  "scripts": {
+    "preview": "npx serve .",
+    "start": "npx serve ."
+  }
+}
